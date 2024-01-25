@@ -51,6 +51,7 @@ public final class Grocery extends JFrame
     public static void main(String[] args) throws SQLException
     {
         Grocery app = new Grocery();
-      System.out.print("bern berdera");
+      System.out.println("bern berdera");
+      System.out.println("kinawat ra na code");
     }
 }
