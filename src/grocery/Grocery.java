@@ -52,6 +52,6 @@ public final class Grocery extends JFrame
     {
         Grocery app = new Grocery();
       System.out.println("bern berdera");
-      System.out.println("kinawat ra na code");
+      System.out.println("kinawat ra na code   hehehe");
     }
 }
